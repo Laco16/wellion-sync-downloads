@@ -1,0 +1,4 @@
+# Súbory sa necommitujú — nahrávajú sa ako prílohy vydaní (GitHub Releases).
+*.zip
+*.exe
+*.pdf
